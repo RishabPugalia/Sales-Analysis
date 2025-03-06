@@ -1,6 +1,6 @@
 # Title: Sales-Analysis of ECOMMERCE Business
 
-problem statement with analysis
+Problem statement with analysis
 
  1. Sales Performance:
     - November shows the highest sales, while February has the lowest. Investigate the reasons for this seasonal variation. 
